@@ -11,7 +11,7 @@ from sklearn.metrics import accuracy_score
 
 
 # prepare data
-input_dir = 'C:\Users\houss\Desktop\computer_vision\image classification\parking_spot_classifier/data'
+input_dir = 'C:\Users\houss\Desktop\computer_vision\image classification\parking_spot_classifier\data'
 categories = ['empty', 'not_empty']
 
 data = []
